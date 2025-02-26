@@ -15,16 +15,7 @@ Supports Large-Scale Systems: From web applications to embedded systems, softwar
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-(i) The Birth of Software Engineering (1968)
-The NATO Software Engineering Conference marked the official recognition of software engineering as a discipline.
-This was due to the "software crisis", where increasing software complexity led to unreliable and costly projects.
-(ii) The Rise of Object-Oriented Programming (1980s - 1990s)
-Languages like C++, Java, and Python introduced OOP concepts (encapsulation, inheritance, polymorphism).
-This improved software reusability, maintainability, and modularity.
-(iii) Agile Development & DevOps (2000s - Present)
-Agile methodologies (e.g., Scrum, Kanban) revolutionized software development by emphasizing collaboration, adaptability, and continuous delivery.
-DevOps emerged, integrating development and operations for faster and more reliable deployments.
-
+Milestones include the development of programming languages (e.g., Fortran, C), the establishment of software engineering as a discipline in the 1960s, the advent of structured programming in the 1970s, and the rise of agile methodologies in the 2000s.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 Requirement Analysis: Understanding the needs and expectations of users.
